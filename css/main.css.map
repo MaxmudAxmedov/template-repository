@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_fonts.scss",
+        "../scss/_general.scss",
+        "../scss/_normalize.scss",
+        "../scss/_variables.scss",
+        "../scss/blocks/_block.scss",
+        "../scss/blocks/_visually-hidden.scss",
+        "../scss/blocks/_container.scss",
+        "../scss/blocks/_header.scss",
+        "../scss/blocks/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
